@@ -1,1 +1,1 @@
-# web-chat-react
+# This project is a video chat web application developed using React, NodeJS, ExpressJS and Socket.IO technologies. The web application allows users to communicate with each other in real time via video chat.
