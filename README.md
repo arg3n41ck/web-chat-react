@@ -1,1 +1,1 @@
-#### :computer: :telephone_receiver: This project is a web chat web application developed using React, NodeJS, ExpressJS and Socket.IO technologies. The web application allows users to communicate with each other in real time via web chat.
+#### This project is a web chat web application developed using React, NodeJS, ExpressJS and Socket.IO technologies. The web application allows users to communicate with each other in real time via web chat.
